@@ -1,0 +1,23 @@
+.contenedor {
+  font-size: 20px; 
+  font-weight: bold;
+  padding: 20px;
+  width: 150px;
+  margin: auto;
+  text-align:center;
+
+}
+#result{
+  padding: 10px;
+  width: 22.4px;
+  margin: 10px auto;
+  border: 2px solid black;
+  border-radius: 5px;
+  
+}
+.btn {
+  padding: 10px  20px;
+  border-radius: 10px;
+  margin: auto;
+  /*margin-top: 50px; */
+}
